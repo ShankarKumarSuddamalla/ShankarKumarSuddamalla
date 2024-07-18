@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shankar Kumar Suddamalla</h1>
 <h3 align="center">Enthusiastic Full Stack Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="[https://wallpapercg.com/download/coding-4k-wallpaper-3840x2160-18653.jpg](https://wallpapercg.com/media/ts_orig/18794.webp)" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shankarkumarsuddamalla&label=Profile%20views&color=0e75b6&style=flat" alt="shankarkumarsuddamalla" /> </p>
 
 - 📫 How to reach me **suddamallashankarkumar@gmail.com**
