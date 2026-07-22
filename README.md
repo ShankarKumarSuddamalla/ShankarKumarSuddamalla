@@ -156,5 +156,5 @@
 ## 📫 Connect with Me
 
 - 📧 **suddamallashankarkumar@gmail.com**
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 💼 LinkedIn: https://www.linkedin.com/in/suddamallashankarkumar/
 - 🌐 Portfolio: *(Add when available)*
