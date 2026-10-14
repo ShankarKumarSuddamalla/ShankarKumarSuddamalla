@@ -10,10 +10,7 @@
 - 💼 Java Backend Developer with experience in enterprise application development.
 - 🌱 Currently building production-grade backend systems and distributed applications.
 - 🚀 Passionate about Microservices, System Design, Distributed Systems, and Cloud-Native Applications.
-- 🔭 Currently working on:
-  - Layer 7 Intelligent Load Balancer
-  - Enterprise E-Commerce Platform
-  - Inventory Management System
+
 - 📫 Reach me at **suddamallashankarkumar@gmail.com**
 
 ---
@@ -42,11 +39,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
 </a>
 
-<!-- Kubernetes -->
-<a href="https://kubernetes.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="45" height="45"/>
-</a>
-
 <!-- Redis -->
 <a href="https://redis.io/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45"/>
@@ -60,11 +52,6 @@
 <!-- MySQL -->
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</a>
-
-<!-- Oracle -->
-<a href="https://www.oracle.com/database/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="45" height="45"/>
 </a>
 
 <!-- Git -->
@@ -107,11 +94,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
 </a>
 
-<!-- Angular -->
-<a href="https://angular.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="45" height="45"/>
-</a>
-
 </p>
 
 ---
@@ -133,14 +115,11 @@
 - SQL
 - XML Processing
 - Docker
-- Kubernetes
 - API Gateway
 - Eureka Service Discovery
 - Config Server
 - Maven
 - Git
-- JUnit 5
-- Mockito
 
 ---
 
