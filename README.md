@@ -1,139 +1,115 @@
-<h1 align="center">Hi 👋, I'm Shankar Kumar Suddamalla</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Microservices | Distributed Systems Enthusiast</h3>
+# 👋 Hi, I'm Shankar Kumar Suddamalla
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shankarkumarsuddamalla&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<h3 align="center">☕ Java Backend Developer | Spring Boot | Microservices | Distributed Systems</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shankarkumarsuddamalla&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-## 👨‍💻 About Me
-
-- 💼 Java Backend Developer with experience in enterprise application development.
-- 🌱 Currently building production-grade backend systems and distributed applications.
-- 🚀 Passionate about Microservices, System Design, Distributed Systems, and Cloud-Native Applications.
-
-- 📫 Reach me at **suddamallashankarkumar@gmail.com**
+<p align="center"><em>Building scalable backend systems, event-driven architectures, and cloud-native applications.</em></p>
 
 ---
 
-## 🛠 Languages & Technologies
+## 🚀 About Me
 
-<p align="left">
+- 💻 Java Backend Developer passionate about scalable enterprise applications.
+- ☕ Working with Java, Spring Boot, REST APIs, and microservices.
+- 🔄 Exploring Apache Kafka, Apache Ignite, and distributed caching.
+- 🏗️ Interested in system design, performance optimization, and cloud-native engineering.
+- 🐳 Learning containerized deployments and modern cloud architectures.
 
-<!-- Java -->
-<a href="https://www.java.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45"/>
-</a>
+📫 **Email:** [suddamallashankarkumar@gmail.com](mailto:suddamallashankarkumar@gmail.com)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/shankarkumarsuddamalla/)
 
-<!-- Spring -->
-<a href="https://spring.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45"/>
-</a>
+---
 
-<!-- Kafka -->
-<a href="https://kafka.apache.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="45" height="45"/>
-</a>
+## 🧰 Tech Stack
 
-<!-- Docker -->
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45"/>
-</a>
+### ☕ Backend Development
 
-<!-- Redis -->
-<a href="https://redis.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45"/>
-</a>
+<p><img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate" alt="Java Backend Technologies" /></p>
 
-<!-- PostgreSQL -->
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-</a>
+### 📨 Messaging & Distributed Systems
 
-<!-- MySQL -->
-<a href="https://www.mysql.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45"/>
-</a>
+<p><img src="https://skillicons.dev/icons?i=kafka,redis,docker" alt="Kafka, Redis, Docker" /></p>
 
-<!-- Git -->
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
-</a>
+**Core concepts:** Microservices · Event-Driven Architecture · Distributed Caching · Service Discovery · API Gateway · System Design
 
-<!-- GitHub -->
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
-</a>
+### 🗄️ Databases
 
-<!-- Maven -->
-<a href="https://maven.apache.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45"/>
-</a>
+<p><img src="https://skillicons.dev/icons?i=postgres,mysql" alt="PostgreSQL and MySQL" /></p>
 
-<!-- IntelliJ -->
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="45" height="45"/>
-</a>
+- Spring Data JPA and Hibernate
+- SQL and relational database design
+- Apache Ignite and distributed caching
 
-<!-- Linux -->
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45"/>
-</a>
+### ⚙️ Tools & Development Environment
 
-<!-- HTML -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45"/>
-</a>
+<p><img src="https://skillicons.dev/icons?i=git,github,idea,linux,docker" alt="Development Tools" /></p>
 
-<!-- CSS -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45"/>
-</a>
+- Git, GitHub, IntelliJ IDEA, Maven, Linux
+- Docker and containerized deployments
+- XML-based application configuration
 
-<!-- JavaScript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-</a>
+### 🌐 Web Fundamentals
 
+<p><img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML, CSS, JavaScript" /></p>
+
+---
+
+## 🏗️ Featured Projects
+
+### 🚀 Layer 7 Intelligent Load Balancer
+Application-layer load balancing focused on request routing, traffic distribution, and backend service availability.
+
+**Focus areas:** HTTP routing · Load balancing · Fault tolerance · System design
+
+### 🛒 Enterprise E-Commerce Platform
+A backend platform concept covering product management, order processing, and scalable REST APIs.
+
+**Focus areas:** Spring Boot · Microservices · REST APIs · Database design
+
+### 📦 Inventory Management System
+A backend system for inventory management, stock updates, and business operations.
+
+**Focus areas:** Java · Spring Data JPA · SQL · Transaction management
+
+### 💳 Enterprise Payment Processing System
+Exploring reliable payment-processing workflows, asynchronous communication, and distributed integration.
+
+**Focus areas:** Event-driven architecture · Apache Kafka · Distributed systems · Reliability
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shankarkumarsuddamalla&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankarkumarsuddamalla&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shankarkumarsuddamalla&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
 </p>
 
 ---
 
-## 🚀 Backend Expertise
+## 🎯 Current Focus
 
-- Java 25
-- Spring Boot
-- Spring Framework
-- Spring Data JPA
-- Hibernate
-- Microservices
-- REST APIs
-- Apache Kafka
-- Apache Ignite
-- Distributed Systems
-- System Design
-- Event-Driven Architecture
-- SQL
-- XML Processing
-- Docker
-- API Gateway
-- Eureka Service Discovery
-- Config Server
-- Maven
-- Git
+- 🔍 Java internals and advanced Spring Boot development
+- 🏛️ Production-ready microservices and distributed systems
+- 📨 Kafka messaging and event-driven patterns
+- ☁️ Docker, AWS, and cloud deployment
+- 🧠 Data structures, algorithms, and system design
 
 ---
 
-## 📌 Featured Projects
+## 🤝 Let's Connect
 
-- 🚀 Layer 7 Intelligent Load Balancer
-- 🛒 Enterprise E-Commerce Platform
-- 📦 Inventory Management System
-- 💳 Enterprise Payment Processing System
+<p align="center">
+  <a href="https://www.linkedin.com/in/shankarkumarsuddamalla/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:suddamallashankarkumar@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/shankarkumarsuddamalla"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
----
-
-## 📫 Connect with Me
-
-- 📧 **suddamallashankarkumar@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/suddamallashankarkumar/
-- 🌐 Portfolio: *(Add when available)*
+<p align="center"><strong>💡 Build. Learn. Optimize. Repeat.</strong></p>
